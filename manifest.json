@@ -1,6 +1,6 @@
 {
-  "name": "Distraction Free Etherscan",
-  "version": "1.0.1",
+  "name": "Distraction-Free Etherscan",
+  "version": "1.0.2",
   "manifest_version": 2,
   "description": "Hide all price references on Etherscan so you don't get distracted when writing your smart contracts",
   "permissions": ["declarativeContent"],
