@@ -1,10 +1,10 @@
 {
   "name": "Distraction-Free Etherscan",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "manifest_version": 2,
   "description": "Hide all price references on Etherscan so you don't get distracted when you're deploying and testing your smart contracts",
   "permissions": ["declarativeContent"],
-  "background": { "persistent": false, "scripts": ["background.js", "hot-reload.js"] },
+  "background": { "persistent": false, "scripts": ["background.js"] },
   "content_scripts": [
     {
       "all_frames": true,
