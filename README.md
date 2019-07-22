@@ -1,6 +1,6 @@
 ## Distraction Free Etherscan
 
-Hide all price references on Etherscan so you don't get distracted when writing your smart contracts.
+Hide all price references on Etherscan so you don't get distracted when you're deploying and testing your smart contracts.
 
 What's changed on the site:
 
@@ -9,4 +9,4 @@ What's changed on the site:
 - Replaced the Ether value in \$ on the account page with "Not Available"
 - Removed Ether price from the top left corner
 - Removed transaction fee in \$
-- Removed Ether value transferred in \$
+- Removed transaction value in \$
