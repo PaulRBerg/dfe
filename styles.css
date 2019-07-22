@@ -1,0 +1,21 @@
+#ContentPlaceHolder1_mainboxes
+  > div
+  > div
+  > div.col-md-6.col-lg-4.u-ver-divider.u-ver-divider--none-md
+  > div:nth-child(1)
+  > div
+  > a,
+#ContentPlaceHolder1_mainboxes
+  > div
+  > div
+  > div.col-md-6.col-lg-4.u-ver-divider.u-ver-divider--none-md
+  > div:nth-child(3)
+  > div
+  > a {
+  cursor: default;
+  pointer-events: none;
+}
+
+#ethPrice {
+  display: none;
+}
